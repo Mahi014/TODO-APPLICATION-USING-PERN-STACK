@@ -2,6 +2,14 @@
 
 This is a Todo application built with the **PERN** stack (PostgreSQL, Express.js, React.js, Node.js).
 
+# THIS IS HOW THE PROJECT LOOKS AFTER RUNNING:
+
+## Screenshot 1
+![Screenshot 1](images/Screenshot%20(26).png)
+
+## Screenshot 2
+![Screenshot 2](images/Screenshot%20(27).png)
+
 ## Getting Started
 
 ### Setup Instructions
