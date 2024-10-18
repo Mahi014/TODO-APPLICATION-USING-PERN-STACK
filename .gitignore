@@ -1,0 +1,24 @@
+# Node.js / Express (server)
+server/node_modules
+server/.env
+server/dist
+server/logs
+server/*.log
+
+# React.js / Client
+client/node_modules
+client/build
+client/.env
+
+# Ignore npm-debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS / Editor specific files
+.DS_Store
+Thumbs.db
+*.log
+*.lock
+.vscode/
+.idea/

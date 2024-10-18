@@ -1,0 +1,28 @@
+footer {
+  background-color: #ffffff;
+  color: #343a40;
+  text-align: center;
+  padding: 20px 0;
+  font-family: 'Arial', sans-serif;
+  font-size: 16px;
+  /* Change or remove the next line */
+  /* position: fixed; */
+  position: relative; /* or remove this line */
+  width: 100%;
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+}
+
+footer p {
+  margin: 5px 0;
+}
+
+footer p:first-child {
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+footer p:last-child {
+  color: #007bff;
+  font-style: italic;
+}
