@@ -54,6 +54,3 @@ This is a Todo application built with the **PERN** stack (PostgreSQL, Express.js
 
 Developed By:
 Mahender Singh
-
-License:
- This project is licensed under the MIT License.
